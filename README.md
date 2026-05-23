@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since i remember <br>🔭 I'm currently working on: My github repos, passing all my exams<br>⚡ Fun facts: My rubber duck is my best senior developer, I can solve a Rubik's cube, but I still struggle with CSS centering, I have more tabs open in my brain than in my browser.</p>
+<p align="left">✨ **Creating bugs since i remember** <br>🔭 I'm currently working on: **My github repos, passing all my exams**<br>⚡ Fun facts: **My rubber duck is my best senior developer, I can solve a Rubik's cube, but I still struggle with CSS centering**.</p>
 
 ###
 
