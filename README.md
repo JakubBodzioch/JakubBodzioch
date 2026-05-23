@@ -22,11 +22,7 @@
 
 ###
 
-<h2 align="left">Connect with me</h2>
-
-###
-
-<div align="left">
+<div align="right">
   <a href="https://www.facebook.com/Jakub.Bodzioch2002?locale=pl_PL" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="facebook logo"  />
   </a>
