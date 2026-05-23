@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ **Creating bugs since i remember** <br>🔭 I'm currently working on: **My github repos, passing all my exams**<br>⚡ Fun facts: **My rubber duck is my best senior developer, I can solve a Rubik's cube, but I still struggle with CSS centering**.</p>
+<p align="left">✨ <b>Creating bugs since i remember</b> <br>🔭 I'm currently working on: <b>My github repos, passing all my exams</b><br>⚡ Fun facts: <b>My rubber duck is my best senior developer, I can solve a Rubik's cube, but I still struggle with CSS centering</b>.</p>
 
 ###
 
