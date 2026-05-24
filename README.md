@@ -15,7 +15,7 @@
 ###
 
 <div align="right">
-  <span>The music a person listens to says a lot about them... <br><i>(If some weird stuff is playing right now, it means I've spent way more time debugging than I initially planned)</i></span>
+  <span>The music a person listens to says a lot about them... <br><i>(If it's weird, I've been debugging for too long)</i></span>
   <br><br>
   <a href="https://open.spotify.com/user/Jakub.bodzioch">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=3rpkxb5euoyehcgdaei72z680&count=3&unique=false" alt="Spotify recently played"  />
